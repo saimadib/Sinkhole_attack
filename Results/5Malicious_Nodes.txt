@@ -1,0 +1,60 @@
+Total number of nodes : 50
+Total number of packets generated: 1000
+Node 1 sent 0 packets and received 519 packets and generated 0 packets.
+Node 2 sent 326 packets and received 294 packets and generated 32 packets.
+Node 3 sent 0 packets and received 356 packets and generated 16 packets.
+Node 3 is malicious with packet dropping ratio of 100.0%
+Node 4 sent 133 packets and received 111 packets and generated 22 packets.
+Node 5 sent 294 packets and received 269 packets and generated 25 packets.
+Node 6 sent 199 packets and received 181 packets and generated 18 packets.
+Node 7 sent 183 packets and received 160 packets and generated 23 packets.
+Node 8 sent 45 packets and received 27 packets and generated 18 packets.
+Node 9 sent 66 packets and received 42 packets and generated 24 packets.
+Node 10 sent 129 packets and received 111 packets and generated 18 packets.
+Node 11 sent 169 packets and received 146 packets and generated 23 packets.
+Node 12 sent 31 packets and received 0 packets and generated 31 packets.
+Node 13 sent 16 packets and received 0 packets and generated 16 packets.
+Node 14 sent 146 packets and received 134 packets and generated 12 packets.
+Node 15 sent 0 packets and received 0 packets and generated 18 packets.
+Node 15 is malicious with packet dropping ratio of 100.0%
+Node 16 sent 134 packets and received 119 packets and generated 15 packets.
+Node 17 sent 40 packets and received 19 packets and generated 21 packets.
+Node 18 sent 20 packets and received 0 packets and generated 20 packets.
+Node 19 sent 54 packets and received 36 packets and generated 18 packets.
+Node 20 sent 19 packets and received 0 packets and generated 19 packets.
+Node 21 sent 120 packets and received 102 packets and generated 18 packets.
+Node 22 sent 14 packets and received 0 packets and generated 14 packets.
+Node 23 sent 0 packets and received 19 packets and generated 21 packets.
+Node 23 is malicious with packet dropping ratio of 100.0%
+Node 24 sent 36 packets and received 16 packets and generated 20 packets.
+Node 25 sent 27 packets and received 0 packets and generated 27 packets.
+Node 26 sent 44 packets and received 25 packets and generated 19 packets.
+Node 27 sent 25 packets and received 0 packets and generated 25 packets.
+Node 28 sent 40 packets and received 26 packets and generated 14 packets.
+Node 29 sent 19 packets and received 0 packets and generated 19 packets.
+Node 30 sent 38 packets and received 14 packets and generated 24 packets.
+Node 31 sent 20 packets and received 0 packets and generated 20 packets.
+Node 32 sent 16 packets and received 0 packets and generated 16 packets.
+Node 33 sent 22 packets and received 0 packets and generated 22 packets.
+Node 34 sent 35 packets and received 14 packets and generated 21 packets.
+Node 35 sent 26 packets and received 0 packets and generated 26 packets.
+Node 36 sent 0 packets and received 0 packets and generated 21 packets.
+Node 36 is malicious with packet dropping ratio of 100.0%
+Node 37 sent 19 packets and received 0 packets and generated 19 packets.
+Node 38 sent 48 packets and received 22 packets and generated 26 packets.
+Node 39 sent 36 packets and received 0 packets and generated 36 packets.
+Node 40 sent 47 packets and received 19 packets and generated 28 packets.
+Node 41 sent 24 packets and received 0 packets and generated 24 packets.
+Node 42 sent 24 packets and received 0 packets and generated 24 packets.
+Node 43 sent 19 packets and received 10 packets and generated 9 packets.
+Node 44 sent 9 packets and received 0 packets and generated 9 packets.
+Node 45 sent 14 packets and received 0 packets and generated 14 packets.
+Node 46 sent 19 packets and received 0 packets and generated 19 packets.
+Node 47 sent 22 packets and received 0 packets and generated 22 packets.
+Node 48 sent 0 packets and received 0 packets and generated 30 packets.
+Node 48 is malicious with packet dropping ratio of 100.0%
+Node 49 sent 14 packets and received 0 packets and generated 14 packets.
+Node 50 sent 10 packets and received 0 packets and generated 10 packets.
+Total number of packets delivered to root node : 519
+Overall_delivery_ratio is : 51.9%
+Propagation delay is : 1000ms
